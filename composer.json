@@ -1,0 +1,6 @@
+{
+    "require": {
+        "midtrans/midtrans-php": "^2.6",
+        "tecnickcom/tcpdf": "^6.8"
+    }
+}
